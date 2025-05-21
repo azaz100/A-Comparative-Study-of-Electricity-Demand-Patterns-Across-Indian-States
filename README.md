@@ -17,13 +17,21 @@ Both models are evaluated using metrics such as **R² Score**, **RMSE**, **MAE**
 ## 📂 Project Structure
 
 (root)
+
 ├── data/ # Cleaned and preprocessed dataset (filtered_2014_2024.csv)
+
 ├── results/ # Output files, plots, SHAP graphs, and visualizations
+
 ├── models/ # Trained models or prediction scripts (optional)
+
 ├── TSA_CODE.ipynb # Main Jupyter Notebook for training and comparison
+
 ├── README.md # This file
+
 ├── requirements.txt # Python dependencies
+
 └── LICENSE # Optional open-source license
+
 
 
 ---
